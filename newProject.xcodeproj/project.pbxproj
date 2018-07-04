@@ -284,7 +284,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: DB Systel GmbH";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = WY955LPLRA;
 				INFOPLIST_FILE = newProject/Info.plist;
@@ -305,7 +305,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: DB Systel GmbH";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = WY955LPLRA;
 				INFOPLIST_FILE = newProject/Info.plist;
